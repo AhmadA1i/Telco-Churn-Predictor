@@ -1,0 +1,39 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Generated model artifacts
+artifacts/
+
+# CatBoost training output
+catboost_info/
+
+# Local data files
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+
+# Local environment / secrets
+.env
+.env.*
