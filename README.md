@@ -1,6 +1,10 @@
 # Customer Churn Prediction
 
-End-to-end customer churn prediction project for the Telco dataset. The notebook trains and evaluates multiple classification models, then saves a tuned Gradient Boosting model for use in a Streamlit frontend.
+End-to-end customer churn prediction project for the Telco dataset. The notebook trains and evaluates multiple classification models, then saves a tuned Gradient Boosting model for use in a Streamlit app.
+
+## 🚀 Live Demo
+
+**Try the deployed app here:** [Telco Churn Predictor - Streamlit App](https://telco-churn-predictor-8dd9dgl46xvsyf6qsjvwvz.streamlit.app/)
 
 ## Project Overview
 
